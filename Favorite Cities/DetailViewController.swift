@@ -33,7 +33,7 @@ class DetailViewController: UIViewController {
         if let city = self.detailItem {
             if cityTextField != nil {
                 cityTextField.text = city.name
-                cityTextField.text = city.state
+                stateTextField.text = city.state
                 populationTextField.text = String(city.population)
                 imageView.image = UIImage(data: city.image)
             }

@@ -42,7 +42,6 @@
 		35517EA822D3975B000978F9 = {
 			isa = PBXGroup;
 			children = (
-				35517EC822D39AEE000978F9 /* City.swift */,
 				35517EB322D3975B000978F9 /* Favorite Cities */,
 				35517EB222D3975B000978F9 /* Products */,
 			);
@@ -60,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				35517EB422D3975B000978F9 /* AppDelegate.swift */,
+				35517EC822D39AEE000978F9 /* City.swift */,
 				35517EB622D3975B000978F9 /* MasterViewController.swift */,
 				35517EB822D3975B000978F9 /* DetailViewController.swift */,
 				35517EBA22D3975B000978F9 /* Main.storyboard */,
